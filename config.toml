@@ -2,6 +2,12 @@ site_title = "MyArxiv"
 limit_days = 7
 cache_url = "https://galeselee.github.io/arxiv/cache.json"
 
+
+[[sources]]
+limit = 150
+category = "cs.PF"
+title = "Performance"
+
 [[sources]]
 limit = 150
 category = "cs.DC"
@@ -16,11 +22,6 @@ title = "Hardware Architecture"
 limit = 150
 category = "cs.OS"
 title = "Operating Systems"
-
-[[sources]]
-limit = 150
-category = "cs.PF"
-title = "Performance"
 
 [[sources]]
 limit = 150

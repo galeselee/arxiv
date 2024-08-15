@@ -10,13 +10,16 @@ title = "Performance"
 
 [[sources]]
 limit = 150
-category = "cs.DC"
-title = "Distributed, Parallel, and Cluster Computing"
+category = "cs.AR"
+title = "Hardware Architecture"
+
 
 [[sources]]
 limit = 150
-category = "cs.AR"
-title = "Hardware Architecture"
+category = "cs.DC"
+title = "Distributed, Parallel, and Cluster Computing"
+
+
 
 [[sources]]
 limit = 150
